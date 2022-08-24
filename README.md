@@ -1,5 +1,7 @@
 # Whoami
 
+# Session 
+
 [Whoami](https://github.com/containous/whoami) is a tiny Go webserver that prints os information and HTTP request to output.
 
 ## TL;DR;
